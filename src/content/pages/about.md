@@ -8,36 +8,34 @@ seo:
     alt: A person sitting at a desk in front of a computer
 ---
 
-![Alt text for image](/about.jpeg)
+![Alt text for image](/estadisitica.jpg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Daniel Cumbal – Data Scientist based in Quito, Ecuador**
 
-## Ethan Donovan - Web Developer based in Estonia
+Greetings! I’m Daniel Cumbal, a data enthusiast with a background in Electronic Engineering and a strong technical foundation built through years of experience in post-sale support and process automation. Currently based in Quito, I have steered my career toward data science to create intelligent, sustainable solutions that drive informed decision-making.
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+---
 
-## Skills and Expertise
+## Skills and Expertise  
+I focus on data analysis, cleaning and transforming datasets, designing and training predictive models. I work primarily in Python, using libraries such as pandas, scikit-learn, seaborn, and matplotlib for data exploration and modeling. I also have experience with SQL for complex queries and database structuring, as well as visualization tools like Power BI.
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+---
 
-## Innovation and Problem-Solving
+## Transition to Data Science  
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+My interest in data began with a personal passion for investment, where I use to spend hours designing spreadsheets for investment decisions. Exploring predictive analysis possibilities ignited a new passion that led me to formal training in data science and the development of applied projects. This transition allowed me to combine my engineering background with analytical skills and chart a long-term career path aligned with my interests.
 
-## Global Perspective, Local Impact
+---
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+## Problem-Solving and Applied Learning  
+I thrive on tackling complex problems and delivering data-driven solutions that add real value to teams and businesses. I’ve worked on projects involving customer churn prediction, sales analysis, and time-series forecasting, always focusing on understanding the problem context and translating it into functional models. I enjoy the iterative process of continuously improving models through testing, visualization, and feedback.
 
-## Continuous Learning
+---
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+## Growth Mindset and Continuous Learning  
+I firmly believe in continuous improvement. I keep up to date through courses, official documentation, online communities, and personal projects. I am always eager to learn new tools.
 
-## Collaboration and Communication
+---
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
-
-## Get in Touch
-
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
-
-_Let's build something amazing together!_
+## Collaboration and Communication  
+I have worked both independently and in multidisciplinary teams, and I know effective communication is key to project success. I strive to translate technical concepts into clear ideas and ensure data-driven decisions deliver tangible impact for stakeholders.

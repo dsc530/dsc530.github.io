@@ -41,7 +41,6 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     website: 'https://example.com',
     title: 'Daniel Cumbal DS',
-    subtitle: 'Welcome to my Data Science Experience',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
@@ -99,7 +98,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi There & Welcome to My Journey with Data',
-        text: "I am a professional with a solid background in IT, With experience in technical support and automation. On these fields, I’ve acquired critical skills such as complex problem-solving, customer service, and project management. Over time, I discovered my passion for data analysis and its potential to transform business decision-making. My interest in data began while working with automated systems, where I saw how patterns in information could optimize processes. This realization led me to specialize in Data Science, a field that allows me to leverage my existing expertise while developing new predictive models and machine learning solutions. Feel free to explore some of my coding endeavors on <a href='https://github.com/dsc530'>GitHub</a> or follow me on <a href='https://www.linkedin.com/in/daniel-cumbal/?locale=en_US'>Linkedin</a>.",
+        text: "I am an Electronic Engineer with experience in technical support and automation. On these fields, I’ve acquired critical skills such as complex problem-solving, customer service, and project management. Over time, I discovered my passion for data and its potential to transform business decision-making. My interest began while working with automated systems, where I saw how patterns in information could optimize processes. This realization led me to specialize in Data Science, a field that allows me to leverage my existing expertise while developing new predictive models and machine learning solutions. Feel free to explore some of my coding endeavors on <a href='https://github.com/dsc530'>GitHub</a> or follow me on <a href='https://www.linkedin.com/in/daniel-cumbal/?locale=en_US'>Linkedin</a>.",
         image: {
             src: '/bannerds.jpeg',
             alt: 'My personal banner'
