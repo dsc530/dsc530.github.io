@@ -8,7 +8,7 @@ seo:
     alt: A person sitting at a desk in front of a computer
 ---
 
-![Alt text for image](/estadisitica.jpg)
+![Alt text for image](/estadistica.jpg)
 
 **Daniel Cumbal – Data Scientist based in Quito, Ecuador**
 

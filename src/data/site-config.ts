@@ -100,7 +100,7 @@ const siteConfig: SiteConfig = {
         title: 'Hi There & Welcome to My Journey with Data',
         text: "I am an Electronic Engineer with experience in technical support and automation. On these fields, I’ve acquired critical skills such as complex problem-solving, customer service, and project management. Over time, I discovered my passion for data and its potential to transform business decision-making. My interest began while working with automated systems, where I saw how patterns in information could optimize processes. This realization led me to specialize in Data Science, a field that allows me to leverage my existing expertise while developing new predictive models and machine learning solutions. Feel free to explore some of my coding endeavors on <a href='https://github.com/dsc530'>GitHub</a> or follow me on <a href='https://www.linkedin.com/in/daniel-cumbal/?locale=en_US'>Linkedin</a>.",
         image: {
-            src: '/bannerds.jpeg',
+            src: '/yo2.jpg',
             alt: 'My personal banner'
         },
         actions: [
