@@ -4,11 +4,11 @@ description: 'A predictive analytics solution that ranks the top 200 drilling lo
 publishDate: 'Dec  2024'
 seo:
   image:
-    src: '/oilygiant.jpg'
+    src: '/oilygiant.png'
     alt: Project preview
 ---
 
-![Project preview](/oilygiant.jpg)
+![Project preview](/oilygiant.png)
 
 ## OilyGiant Well Recommendation
 
