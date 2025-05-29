@@ -2,6 +2,7 @@
 title: 'Product Sentiment Analysis'
 description: A sentiment analysis project comparing text-processing pipelines and multiple classifiers to accurately predict review polarity for product feedback.
 publishDate: 'Jan 2025'
+isFeatured: true
 seo:
   image:
     src: '/sentiment.png'

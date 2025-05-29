@@ -2,6 +2,7 @@
 title: 'Sure Tomorrow Insurance Analytics'
 description: 'An insurance analytics case study leveraging clustering and regression to segment customers, predict claim counts, and assess the impact of feature scaling on model performance.'
 publishDate: 'Feb 2025'
+isFeatured: true
 seo:
   image:
     src: '/suretomorrow.png'

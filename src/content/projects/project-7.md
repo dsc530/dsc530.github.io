@@ -1,62 +1,38 @@
 ---
-title: 'CryptoTrader-Cryptocurrency Portfolio Manager'
-description: CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios.
-publishDate: 'Jan 10 2024'
+title: 'Interconnect Churn Prediction'
+description: 'A complete churn-prediction pipeline using feature engineering, SMOTE balancing, and classification models with MLOps practices to proactively retain telecom customers.'
+publishDate: 'March 2025'
 isFeatured: true
 seo:
   image:
-    src: 'project-7.jpg'
+    src: '/interconnect.png'
+    alt: Project preview
 ---
 
-![Project preview](/project-7.jpg)
+![Project preview](/interconnect.png)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Interconnect Churn Prediction
 
-**Project Overview:**
-CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios. By providing real-time market data, analytics, and portfolio tracking, the dashboard offers a seamless experience for users to monitor and enhance their cryptocurrency investments.
+### Project Overview
+Interconnect Telecom seeks to predict customer churn to proactively retain users. This project builds, tunes, and deploys classification models within an MLOps framework.
 
-## Objectives
+### Objectives
+1. Merge and clean client, contract, and service records.  
+2. Engineer features such as tenure, monthly charges, and service flags.  
+3. Balance the dataset via SMOTE and split into train/validation/test.  
+4. Compare XGBoost and Random Forest, applying RFE for feature reduction.  
+5. Evaluate final model on AUC-ROC, accuracy, precision, recall, and F1.
 
-1. Develop a user-friendly and feature-rich dashboard that consolidates real-time data from various cryptocurrency exchanges.
-2. Provide tools for users to analyze market trends, track their portfolio performance, and make informed investment decisions.
-3. Create a secure and efficient platform that ensures users have a holistic view of their cryptocurrency holdings.
+### Features
+- **Data Integration & Cleaning**: Combine multiple tables; drop irrelevant fields.  
+- **Feature Engineering**: Derive tenure_days, total_charges, service usage flags.  
+- **Resampling & Scaling**: SMOTE for class balance; MinMax scaling for numeric features.  
+- **Modeling & Tuning**: Train XGBoost and RF; optimize hyperparameters.  
+- **Production-Ready Pipeline**: Export model with DataOps scripts for automated retraining.
 
-## Features
+### Technology Stack
+- **Language & Libraries:** Python, pandas, scikit-learn, XGBoost  
+- **Visualization:** Matplotlib, Seaborn  
 
-1. **Multi-Exchange Integration:**
-
-- CryptoTrader Dashboard aggregates data from multiple cryptocurrency exchanges, allowing users to view their entire portfolio in one centralized location.
-- Real-time updates provide the latest market prices, trading volumes, and order book data.
-
-2. **Portfolio Analytics:**
-
-- Users can analyze their portfolio's performance through interactive charts and graphs.
-- The dashboard offers insights into historical performance, asset allocation, and profit/loss over time.
-
-3. **Risk Management Tools:**
-
-- Advanced risk management tools help users assess the volatility and potential risks associated with their cryptocurrency investments.
-- Users receive alerts for significant market fluctuations or changes in their portfolio value.
-
-4. **Automated Transaction Tracking:**
-
-- The dashboard automatically tracks and records users' cryptocurrency transactions, simplifying the process of updating and managing portfolios.
-- Users can categorize transactions, add notes, and maintain a comprehensive transaction history.
-
-5. **News and Market Insights:**
-
-- A dedicated section provides real-time news and market insights relevant to users' cryptocurrency holdings.
-- Users can stay informed about market trends, regulatory developments, and news affecting their investment decisions.
-
-## Technology Stack
-
-- Frontend: React for a responsive and interactive user interface.
-- Backend: Django for server-side logic and API integration.
-- Database: PostgreSQL for efficient storage and retrieval of portfolio and market data.
-- API Integration: Integration with cryptocurrency exchange APIs for real-time market data.
-
-## Outcome
-
-CryptoTrader Dashboard has become a trusted companion for cryptocurrency investors, offering a consolidated and user-friendly platform for managing their portfolios. The robust analytics, real-time market data, and risk management tools empower users to make informed decisions and navigate the dynamic world of cryptocurrency with confidence.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+### Outcome
+Achieved an AUC-ROC of 0.88 with a reduced feature set, enabling Interconnect to deploy an automated churn-alert system.

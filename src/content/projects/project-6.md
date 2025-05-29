@@ -2,6 +2,7 @@
 title: 'Sweet Lift Taxi Demand Forecasting'
 description: 'A time-series forecasting solution to predict hourly taxi order volumes at airports, improving driver allocation and service efficiency during peak periods.'
 publishDate: 'Nov 2024'
+isFeatured: true
 seo:
   image:
     src: '/taxi.png'
