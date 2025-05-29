@@ -11,4 +11,4 @@ _Email:_
 Feel free to drop me an email at [dsc_530@hotmail.com](mailto:dsc_530@hotmail.com), and I'll do my best to respond as soon as possible.
 
 _Social Media:_
-Connect with me on social media as well. Find me on or [LinkedIn](https://www.linkedin.com/in/daniel-cumbal/).
+Connect with me on social media as well. Find me on <a href="https://www.linkedin.com/in/daniel-cumbal/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
