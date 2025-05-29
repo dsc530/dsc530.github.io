@@ -103,7 +103,7 @@ const siteConfig: SiteConfig = {
         text: 'One update per week. All the latest posts directly in your inbox.',
         formUrl: '#'
     },
-    postsPerPage: 8,
+    postsPerPage: 0,
     projectsPerPage: 8
 };
 
