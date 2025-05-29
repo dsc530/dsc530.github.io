@@ -41,9 +41,9 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     website: 'https://example.com',
     title: 'Daniel Cumbal DS',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    description: 'Data Scientist Portfolio',
     image: {
-        src: '/dante-preview.jpg',
+        src: '/nn.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
     },
     headerNavLinks: [
