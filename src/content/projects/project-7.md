@@ -5,11 +5,11 @@ publishDate: 'March 2025'
 isFeatured: true
 seo:
   image:
-    src: '/interconnect.png'
+    src: '/interconect.png'
     alt: Project preview
 ---
 
-![Project preview](/interconnect.png)
+![Project preview](/interconect.png)
 
 ## Interconnect Churn Prediction
 
